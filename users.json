@@ -1,1 +1,7 @@
-{"users": {}, "referrals": {}, "meta": {"created": ""}}
+{
+  "users": {},
+  "referrals": {},
+  "meta": {
+    "created": ""
+  }
+}
