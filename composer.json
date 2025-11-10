@@ -1,8 +1,8 @@
 {
-  "name": "rk/telegram-referral-bot",
-  "description": "Telegram PHP bot with channel gate, referral links, leaderboard, and Render Docker setup.",
-  "type": "project",
-  "require": {
-    "php": ">=8.0"
-  }
+"name": "rk/telegram-referral-bot",
+"description": "Telegram PHP bot with channel gate, referral links, leaderboard, and Render Docker setup.",
+"type": "project",
+"require": {
+"php": ">=8.0"
+}
 }
