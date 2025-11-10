@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  bot:
+    build: .
+    ports:
+      - "8080:10000"
+    environment:
+      - PORT=10000
+      - BOT_TOKEN=${BOT_TOKEN}
+      - ADMIN_IDS=${ADMIN_IDS:-1702919355}
+      - CHANNEL_1=@bigbumpersaleoffers
+      - CHANNEL_2=@backupchannelbum
